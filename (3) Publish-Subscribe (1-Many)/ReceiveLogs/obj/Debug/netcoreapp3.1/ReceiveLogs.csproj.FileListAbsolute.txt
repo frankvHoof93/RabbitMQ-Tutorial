@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.exe
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfo.cs
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.deps.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.dev.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CopyComplete
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.genruntimeconfig.cache

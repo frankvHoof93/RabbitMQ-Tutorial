@@ -1,0 +1,15 @@
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache

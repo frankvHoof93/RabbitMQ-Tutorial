@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.exe
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.AssemblyInfo.cs
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.deps.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.runtimeconfig.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.runtimeconfig.dev.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.csproj.CopyComplete
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Publish-Subscribe (1-Many)(Tut 3)\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.genruntimeconfig.cache

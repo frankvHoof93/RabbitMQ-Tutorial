@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\Users\Frank\Documents\Fontys\S6\RabbitMQ-Tutorial\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
