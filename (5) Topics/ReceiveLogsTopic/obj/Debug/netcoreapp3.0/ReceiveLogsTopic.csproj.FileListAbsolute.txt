@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\ReceiveLogsTopic.exe
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\ReceiveLogsTopic.deps.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\ReceiveLogsTopic.runtimeconfig.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\ReceiveLogsTopic.runtimeconfig.dev.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\ReceiveLogsTopic.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\ReceiveLogsTopic.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.AssemblyInfo.cs
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.csproj.CopyComplete
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\ReceiveLogsTopic\obj\Debug\netcoreapp3.0\ReceiveLogsTopic.genruntimeconfig.cache

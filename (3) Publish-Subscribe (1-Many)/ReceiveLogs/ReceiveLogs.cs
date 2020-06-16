@@ -6,6 +6,8 @@ using System.Text;
 
 namespace ReceiveLogs
 {
+	// Fanout Exchange
+	// Message goes to all queues in exchange
     class ReceiveLogs
     {
         static void Main(string[] args)

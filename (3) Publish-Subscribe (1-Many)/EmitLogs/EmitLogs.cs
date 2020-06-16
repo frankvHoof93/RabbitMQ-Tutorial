@@ -4,6 +4,8 @@ using System.Text;
 
 namespace EmitLogs
 {
+	// Fanout Exchange
+	// Message goes to all queues in exchange
     class EmitLogs
     {
         public static void Main(string[] args)

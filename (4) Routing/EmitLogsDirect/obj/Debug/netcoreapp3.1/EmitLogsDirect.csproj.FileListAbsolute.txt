@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\EmitLogsDirect.exe
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\EmitLogsDirect.deps.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\EmitLogsDirect.runtimeconfig.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\EmitLogsDirect.runtimeconfig.dev.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\EmitLogsDirect.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\EmitLogsDirect.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.AssemblyInfo.cs
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.csproj.CopyComplete
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\EmitLogsDirect\obj\Debug\netcoreapp3.1\EmitLogsDirect.genruntimeconfig.cache

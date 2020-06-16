@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\EmitLogTopic.exe
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\EmitLogTopic.deps.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\EmitLogTopic.runtimeconfig.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\EmitLogTopic.runtimeconfig.dev.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\EmitLogTopic.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\EmitLogTopic.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.AssemblyInfo.cs
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.csproj.CopyComplete
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(5) Topics\EmitLogTopic\obj\Debug\netcoreapp3.0\EmitLogTopic.genruntimeconfig.cache

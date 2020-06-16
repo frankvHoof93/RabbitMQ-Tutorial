@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\ReceiveLogsDirect.exe
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\ReceiveLogsDirect.deps.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\ReceiveLogsDirect.runtimeconfig.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\ReceiveLogsDirect.runtimeconfig.dev.json
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\ReceiveLogsDirect.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\ReceiveLogsDirect.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.csprojAssemblyReference.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.AssemblyInfo.cs
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.csproj.CopyComplete
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.dll
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.pdb
+C:\Users\Frank\Documents\RabbitMQ-Tutorial\(4) Routing\ReceiveLogsDirect\obj\Debug\netcoreapp3.1\ReceiveLogsDirect.genruntimeconfig.cache

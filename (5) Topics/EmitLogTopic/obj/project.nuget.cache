@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2UZmzeUZavrGO8MSSRsvLJVD6sioJ1v+PYwTn0X/F8JVCfQMytTh/sMACPmLGmRmPWYmWiNmwDUzezbVggkqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frank\\Documents\\RabbitMQ-Tutorial\\(5) Topics\\EmitLogTopic\\EmitLogTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frank\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Frank\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Frank\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Frank\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Frank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Frank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Frank\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
